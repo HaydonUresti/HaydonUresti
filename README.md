@@ -44,8 +44,6 @@ I'm Haydon Uresti, a student at Brigham Young University-Idaho interested in sof
 
 - Here is my email hduresti@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/haydon-uresti-a106ba1b6/) profile
-- Here is my [GitHub](https://github.com/HaydonUresti) profile
-
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
