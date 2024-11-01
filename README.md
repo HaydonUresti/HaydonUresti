@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Haydon Uresti,a student at Brigham Young University-Idaho interested in software engineering. Welcome to my GitHub profile!
+I'm Haydon Uresti, a student at Brigham Young University-Idaho interested in software engineering. Welcome to my GitHub profile!
 
 ## About Me
 
