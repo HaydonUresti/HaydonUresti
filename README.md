@@ -16,7 +16,7 @@ I'm Haydon Uresti, a student at Brigham Young University-Idaho interested in sof
 - Money-Tracker - This is a C++ program created to help the user record and track their spending and then to save that data. I created this program in order to practice C++ outside of class examples.
 - Simple_Calculator - This is a C# program that I wrote to learn C# with .NET. It is a calculator app.
 - FileMover - An app that helps the user sort through files they download. It is written in Python. Istarted this project because I had heard about making Python scripts executables and I wanted to learn more about that. 
-- StayOnTask - This is a web extension that I am actively working on. It's goal is to help the user stay on task while wokring online. It is utilizing JavaScript, CSS, and HTML.
+- StayOnTask - This is a web extension that I am actively working on. It's goal is to help the user stay on task while working online. It is utilizing JavaScript, CSS, and HTML.
 
 
 
